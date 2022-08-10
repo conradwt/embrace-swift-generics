@@ -12,16 +12,18 @@
 // Session:
 //   https://developer.apple.com/videos/play/wwdc2022/110352
 //
-// Forum: https://developer.apple.com/forums/tags/wwdc2022-110352
+// Forum: 
+//   https://developer.apple.com/forums/tags/wwdc2022-110352
 //
 
 //
-// Embrace Swift Generics
+// Design protocol interfaces in Swift
 //
 // Session:
-//   https://developer.apple.com/videos/play/wwdc2022/110352
+//   https://developer.apple.com/videos/play/wwdc2022/110353
 //
-// Forum: https://developer.apple.com/forums/tags/wwdc2022-110352
+// Forum: 
+//   https://developer.apple.com/forums/tags/wwdc2022-110353
 //
 
 import Foundation
