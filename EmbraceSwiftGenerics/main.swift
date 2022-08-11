@@ -109,7 +109,6 @@ struct Millet: Crop {
 }
 
 struct Farm {
-  // func feed<A: Animal>(_ animal: A) where A: Animal {
   private func feed(_ animal: some Animal) {
     let crop = type(of: animal).Feed.grow()
     let feed = crop.harvest()
